@@ -1,0 +1,17 @@
+{
+    "count": 2,
+    "reports": {
+        "1": {
+            "reporter_id": 373749315643899904,
+            "target_id": 1377278310647595138,
+            "reason": "213",
+            "status": "accepted"
+        },
+        "2": {
+            "reporter_id": 373749315643899904,
+            "target_id": 1044424194810707978,
+            "reason": "test",
+            "status": "accepted"
+        }
+    }
+}
